@@ -1,4 +1,5 @@
 # Sistema de Ventilador Automatizado
+![Sistema de Ventilador Automatizado](img/portada.jpg)
 
 Este proyecto implementa un sistema automatizado de ventilador y calefactor controlado por un sistema de inferencia difusa y sensores de temperatura y humedad. El sistema ajusta la velocidad del ventilador y la potencia del calefactor basándose en las lecturas de los sensores y las reglas de inferencia difusa.
 
@@ -50,7 +51,9 @@ El código completo está disponible en el archivo `proyectoIA.ino`.
 ## Sistema de Inferencia Difusa
 
 El sistema de inferencia difusa utiliza reglas predefinidas para ajustar la velocidad del ventilador y la potencia del calefactor según las condiciones ambientales detectadas por los sensores.
+
 ![Pantalla LCD](img/pantalla.png)
+
 ![Ventilador](img/ventilador.png)
 
 
